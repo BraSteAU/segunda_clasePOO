@@ -33,3 +33,4 @@ persona2=Persona("Brayan",27)
 #Uso del metodo para mostrar la informacion de cada instancia
 persona1.presentarse()
 persona2.presentarse()
+
